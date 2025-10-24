@@ -10,7 +10,8 @@ Languages & Tools:
 🚀 3. Projects I'm Proud Of
 
 Featured Projects:
-📉 Process Efficiency Analysis (SQL): Identified bottlenecks in workflows and proposed data-backed solutions.
+🧠 Financed Projects Insights Dashboard: Built in Power BI using real EIB data to track key trends, sectors, and top investment metrics.
+📉 Equity and Efficiency Analysis (SQL): Reviewed patient care outcomes in workflows and proposed data-backed key learning outcomes and future work.
 
 📈 4. Advanced Profile Features
 
